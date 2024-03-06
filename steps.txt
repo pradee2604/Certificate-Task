@@ -1,0 +1,5 @@
+Steps to create staging branch 
+- git branch <branch_name> //new branch will be created
+-git switch <branch_name> //branch will be switched to new branch
+// created new branch consists of all the data present in main branch
+//if anything modified in the staged branch, it will not be reflwcted in main branch - for this we need to perform merge operation
