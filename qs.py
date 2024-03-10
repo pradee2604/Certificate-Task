@@ -74,6 +74,21 @@ Task 10
 Implement Auto Scaling: Create an Auto Scaling group that automatically launches new EC2 instances based on predefined rules. You can use the EC2 instance that you created in Task 1 as the base instance for the Auto Scaling group. Test the Auto Scaling group by simulating a surge in traffic to the web server.
 
 
+Task 11
+
+Configure a Load Balancer: Set up an Elastic Load Balancer (ELB) that distributes incoming traffic to the EC2 instances in your Auto Scaling group. Configure health checks to ensure that the ELB only forwards traffic to healthy instances.
+
+
+Task 12
+
+Creating a Custom Amazon Machine Image (AMI)
+- Launch a New EC2 Instance
+- Install http on the new instance, enable the http service to start at boot.
+- Create a New AMI from customized instance and name the AMI MicroDegreeWeb
+- Launch a New Instance Using the Custom AM
+- Verify that http is running.
+
+
 
 
 
