@@ -184,22 +184,22 @@ Instructions:
 
     "Scenario based questions"
 
-1 Scenario : You have a running process that is consuming a lot of system resources and needs to be terminated. How would you find the process ID (PID) of the process and terminate it gracefully?
+1 :Scenario: You have a running process that is consuming a lot of system resources and needs to be terminated. How would you find the process ID (PID) of the process and terminate it gracefully?
 
-2 Scenario : You are using a computer with a single-core processor. You have multiple applications open, including a web browser, a text editor, and a media player. The media player freezes and becomes unresponsive. Explain the potential reasons behind this issue and suggest a possible solution.
+2: You are using a computer with a single-core processor. You have multiple applications open, including a web browser, a text editor, and a media player. The media player freezes and becomes unresponsive. Explain the potential reasons behind this issue and suggest a possible solution.
 
-3 Scenario : A user reports that they are unable to access a website by its domain name, but other websites are working fine. What steps would you take to troubleshoot and resolve this issue from the DNS perspective?
+3 A user reports that they are unable to access a website by its domain name, but other websites are working fine. What steps would you take to troubleshoot and resolve this issue from the DNS perspective?
 
-4 Scenario : Infrastructure as Code
+4: Infrastructure as Code
 Your team is managing infrastructure using Infrastructure as Code (IaC) principles. How would you use AWS CloudFormation to provision and manage resources? Provide an example of a CloudFormation template that creates an Amazon S3 bucket and an Amazon DynamoDB table.
 
-5 Scenario : You are deploying a web application on AWS. How would you set up an automated deployment pipeline using DevOps principles?
+5: You are deploying a web application on AWS. How would you set up an automated deployment pipeline using DevOps principles?
 Question: What steps would you take to implement continuous integration and continuous deployment (CI/CD) for your web application on AWS?
 
-6 Scenario : Your team is working on an application that requires scalability and high availability. How would you architect the application using AWS services and Dev-Ops best practices ?  
- Question : Explain how you would design an architecture that leverages AWS services to ensure scalability and high availability for your application, following Dev-Ops principles.
+6: Your team is working on an application that requires scalability and high availability. How would you architect the application using AWS services and Dev-Ops best practices?
+Question: Explain how you would design an architecture that leverages AWS services to ensure scalability and high availability for your application, following Dev-Ops principles.
 
-7 Scenario : Your application needs to process and analyze streaming data from various sources. Which AWS service can you use for real-time data streaming and analytics?
+7 : Your application needs to process and analyze streaming data from various sources. Which AWS service can you use for real-time data streaming and analytics?
 
 
 
